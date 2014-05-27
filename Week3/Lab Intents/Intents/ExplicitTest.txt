@@ -1,0 +1,3 @@
+02-07 23:34:39.560: I/Lab-Intents(883): Entered startExplicitActivation()
+02-07 23:34:44.881: I/Lab-Intents(883): Entered enterClicked()
+02-07 23:34:45.190: I/Lab-Intents(883): Entered onActivityResult()

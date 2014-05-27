@@ -1,0 +1,33 @@
+02-01 16:15:44.196: I/TestRunner(5708): started: testRun(course.labs.activitylab.test.Test1)
+02-01 16:15:44.256: I/TestRunner(5708): finished: testRun(course.labs.activitylab.test.Test1)
+02-01 16:15:44.256: I/TestRunner(5708): passed: testRun(course.labs.activitylab.test.Test1)
+02-01 16:15:48.156: I/TestRunner(5738): started: testRun(course.labs.activitylab.test.Test1)
+02-01 16:15:48.236: E/dalvikvm(5738): Could not find class 'android.support.v4.app.FragmentActivity', referenced from method com.robotium.solo.Waiter.getSupportFragment
+02-01 16:15:48.236: W/dalvikvm(5738): VFY: unable to resolve check-cast 35 (Landroid/support/v4/app/FragmentActivity;) in Lcom/robotium/solo/Waiter;
+02-01 16:15:48.246: I/dalvikvm(5738): Could not find method android.support.v4.app.FragmentActivity.getSupportFragmentManager, referenced from method com.robotium.solo.Waiter.getSupportFragment
+02-01 16:15:48.246: W/dalvikvm(5738): VFY: unable to resolve virtual method 56: Landroid/support/v4/app/FragmentActivity;.getSupportFragmentManager ()Landroid/support/v4/app/FragmentManager;
+02-01 16:15:48.256: I/dalvikvm(5738): Could not find method android.support.v4.app.FragmentActivity.getSupportFragmentManager, referenced from method com.robotium.solo.Waiter.getSupportFragment
+02-01 16:15:48.256: W/dalvikvm(5738): VFY: unable to resolve virtual method 56: Landroid/support/v4/app/FragmentActivity;.getSupportFragmentManager ()Landroid/support/v4/app/FragmentManager;
+02-01 16:15:48.256: W/dalvikvm(5738): VFY: unable to find class referenced in signature (Landroid/support/v4/app/Fragment;)
+02-01 16:15:48.286: W/dalvikvm(5738): VFY: unable to find class referenced in signature (Landroid/support/v4/app/Fragment;)
+02-01 16:15:51.296: I/Lab-ActivityOne(5738): Entered the onCreate method
+02-01 16:15:51.296: I/Lab-ActivityOne(5738): Entered the onStart method
+02-01 16:15:51.306: I/Lab-ActivityOne(5738): Entered the onResume method
+02-01 16:15:57.286: I/Lab-ActivityOne(5738): Entered the onStop method
+02-01 16:15:57.296: I/Lab-ActivityOne(5738): Entered the onStop method
+02-01 16:15:57.316: I/Lab-ActivityOne(5738): Entered the onDestroy method
+02-01 16:15:59.506: I/Lab-ActivityOne(5738): Entered the onCreate method
+02-01 16:15:59.576: I/Lab-ActivityOne(5738): Entered the onStart method
+02-01 16:15:59.576: I/Lab-ActivityOne(5738): Entered the onResume method
+02-01 16:15:59.776: I/Choreographer(5738): Skipped 268 frames!  The application may be doing too much work on its main thread.
+02-01 16:16:02.316: I/Choreographer(5738): Skipped 113 frames!  The application may be doing too much work on its main thread.
+02-01 16:16:08.046: I/Lab-ActivityOne(5738): Entered the onStop method
+02-01 16:16:08.536: I/Lab-ActivityOne(5738): Entered the onStop method
+02-01 16:16:08.536: I/Lab-ActivityOne(5738): Entered the onDestroy method
+02-01 16:16:10.306: I/Lab-ActivityOne(5738): Entered the onCreate method
+02-01 16:16:10.386: I/Lab-ActivityOne(5738): Entered the onStart method
+02-01 16:16:10.386: I/Lab-ActivityOne(5738): Entered the onResume method
+02-01 16:16:10.646: I/Choreographer(5738): Skipped 226 frames!  The application may be doing too much work on its main thread.
+02-01 16:16:15.776: I/Lab-ActivityOne(5738): Entered the onStop method
+02-01 16:16:17.406: I/TestRunner(5738): finished: testRun(course.labs.activitylab.test.Test1)
+02-01 16:16:17.416: I/TestRunner(5738): passed: testRun(course.labs.activitylab.test.Test1)

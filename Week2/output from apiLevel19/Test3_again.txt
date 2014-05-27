@@ -1,0 +1,23 @@
+02-01 16:11:37.016: I/TestRunner(5300): started: testRun(course.labs.activitylab.test.Test3)
+02-01 16:11:40.036: I/Lab-ActivityOne(5300): Entered the onCreate method
+02-01 16:11:40.046: I/Lab-ActivityOne(5300): Entered the onStart method
+02-01 16:11:40.046: I/Lab-ActivityOne(5300): Entered the onResume method
+02-01 16:11:46.106: I/Lab-ActivityOne(5300): Entered the onStop method
+02-01 16:11:47.026: I/Lab-ActivityTwo(5300): Entered the onCreate method
+02-01 16:11:47.036: I/Lab-ActivityTwo(5300): Entered the onStart method
+02-01 16:11:47.036: I/Lab-ActivityTwo(5300): Entered the onResume method
+02-01 16:11:50.656: I/Lab-ActivityOne(5300): Entered the onStop method
+02-01 16:11:52.616: I/Lab-ActivityTwo(5300): Entered the onPause method
+02-01 16:11:53.136: I/Lab-ActivityOne(5300): Entered the onRestart method
+02-01 16:11:53.136: I/Lab-ActivityOne(5300): Entered the onStart method
+02-01 16:11:53.156: I/Lab-ActivityOne(5300): Entered the onResume method
+02-01 16:11:55.646: I/Lab-ActivityTwo(5300): Entered the onStop method
+02-01 16:11:55.656: I/Lab-ActivityTwo(5300): Entered the onDestroy method
+02-01 16:11:57.636: I/Lab-ActivityOne(5300): Entered the onStop method
+02-01 16:11:58.826: I/Lab-ActivityTwo(5300): Entered the onCreate method
+02-01 16:11:58.846: I/Lab-ActivityTwo(5300): Entered the onStart method
+02-01 16:11:58.886: I/Lab-ActivityTwo(5300): Entered the onResume method
+02-01 16:12:02.326: I/Lab-ActivityOne(5300): Entered the onStop method
+02-01 16:12:03.326: I/Lab-ActivityTwo(5300): Entered the onPause method
+02-01 16:12:05.036: I/TestRunner(5300): finished: testRun(course.labs.activitylab.test.Test3)
+02-01 16:12:05.036: I/TestRunner(5300): passed: testRun(course.labs.activitylab.test.Test3)
